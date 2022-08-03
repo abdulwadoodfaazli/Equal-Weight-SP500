@@ -1,2 +1,2 @@
 # Equal-Weight-SP500
-Building an equal-weighted version of the S&amp;P500 Index Fund to suggest a trader how many shares to buy for each company in it
+This project is an introduction towards algorithmic trading for me. In it, I'm recommending to a client a certain number of shares to buy for each company in the S&P500 Index Fund in order to get an equal-weighted version of it as opposed to the float-weighted (based on market cap) version that exists in real life. In this way, one may reduce risk in their portfolio and execute value investing which is considered to be quite a useful investing startegy by many. The libraries used are NumPy, Pandas, XlsxWriter, and requests. 
